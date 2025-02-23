@@ -31,6 +31,7 @@ function Flag() {
       Flag {value}
       <ProductList data={product}/>
       <Country/>
+      changes
     </div>
   )
 }
