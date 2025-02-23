@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <RouterProvider router={myRouter4}/>
+      <div>Added new meal text</div>
     </>
   )
 }
